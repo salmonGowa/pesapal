@@ -1,0 +1,22 @@
+How to use
+
+
+Initialize Repository:
+python minigit.py init
+
+
+Stage Files:
+python minigit.py add <file_path>
+
+
+Commit Changes:
+python minigit.py commit "Commit message"
+
+
+View Commit Log
+python minigit.py log
+
+
+Clone Repository:
+python minigit.py clone <target_directory>
+
